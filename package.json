@@ -1,0 +1,24 @@
+{
+  "name": "blinspotmonitoringsystem",
+  "version": "1.0.0",
+  "description": "!st Semester Mini Project",
+  "main": "blinspotmonitoringsystem.ino",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vaibhav2154/blinspotmonitoringsystem"
+  },
+  "author": "Vaibhav M N",
+  "bugs": {
+    "url": "https://github.com/Vaibhav2154/blinspotmonitoringsystem"
+  },
+  "homepage": "https://github.com/Vaibhav2154/blinspotmonitoringsystem",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+  }
+}
