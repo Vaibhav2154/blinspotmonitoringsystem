@@ -2,7 +2,7 @@
 const int trigPin = 9;
 const int echoPin = 10;
 const int buzzerPin = 11;
-const int ledPin = 13; // Change to the appropriate pin for your LED
+const int ledPin = 13; 
 
 // Define variables for duration and distance
 long duration;
